@@ -38,7 +38,8 @@
       "values": {
         "STOCK": 0,
         "FEATHER": 1,
-        "HEADLESS": 2
+        "HEADLESS": 2,
+        "GUPPY": 3
       }
     }
   },
